@@ -1,0 +1,21 @@
+h1 {
+	color: blue;
+	text-align: center;
+}
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+div {
+	background-color: teal;
+	width: 120px;
+	height: 400px;
+	margin: 30px;
+	padding: 30px;
+	text-align: left;
+	text-indent: 30px;
+	font-family: Arial, sans-serif;
+	font-size: 28px;
+	font-weight: bold;
+	border: 3px solid blue;
+}
